@@ -179,7 +179,6 @@ A comprehensive hospital management system designed to streamline operations, pa
 | [fitnesstracker](https://github.com/leonkoome4-rgb/fitnesstracker) | Health & fitness analytics platform | Python, PostgreSQL | ✅ Complete |
 | [hospital-1-](https://github.com/leonkoome4-rgb/hospital-1-) | Hospital management & operations system | JavaScript, Full-Stack | ✅ Complete |
 | [game-hub](https://github.com/leonkoome4-rgb/game-hub) | Gaming platform & entertainment hub | React, JavaScript, Node.js | ✅ Complete |
-| [react-hooks-plantshop-cr-vite](https://github.com/leonkoome4-rgb/react-hooks-plantshop-cr-vite) | E-commerce plant shop with React hooks | React, Vite, JavaScript | ✅ Complete |
 
 ---
 
@@ -286,10 +285,5 @@ I'm actively seeking:
 
 ---
 
-### 🎨 Profile designed to impress employers & collaborators
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=leonkoome4-rgb.leonkoome4-rgb)
-
-⭐ **If you find this profile valuable, please consider giving it a star!** ⭐
 
 </div>
