@@ -1,8 +1,9 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to My GitHub Profile!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815Q/giphy.gif" width="30px"> Welcome to My GitHub Profile!
 
 <!-- Animated Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Junior+Software+Engineer;💻+Full+Stack+Developer;🎨+Building+Production-Ready+Solutions;🔧+Problem+Solver;📚+Continuous+Learner" alt="Typing SVG" />
+  <h1>🚀 Junior Software Engineer | Full Stack Developer</h1>
+  <p>Building scalable, user-centric applications with modern web technologies</p>
 </div>
 
 <br>
@@ -11,7 +12,7 @@
 
 ## 👋 About Me
 
-I'm **Leon Koome**, a **Junior Software Engineer** passionate about building scalable, user-centric applications. With a strong foundation in full-stack development, I specialize in creating robust solutions using modern technologies and best practices.
+I'm **Leon Koome**, a **Junior Software Engineer** passionate about building scalable, user-centric applications. With a strong foundation in full-stack development, I specialize in creating robust software solutions.
 
 **Professional Summary:**
 - 🎯 **Role:** Junior Software Engineer | Full-Stack Developer
@@ -150,10 +151,10 @@ A comprehensive hospital management system designed to streamline operations, pa
 ### GitHub Performance
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonkoome4-rgb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-### Technology Distribution
+### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leonkoome4-rgb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-### Contribution Activity
+### Contribution Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=leonkoome4-rgb&theme=tokyonight&hide_border=true)
 
 </div>
@@ -284,6 +285,5 @@ I'm actively seeking:
 *To deliver high-quality, maintainable software solutions that create real value for users and businesses. Passionate about continuous learning, code excellence, and building products that matter.*
 
 ---
-
 
 </div>
